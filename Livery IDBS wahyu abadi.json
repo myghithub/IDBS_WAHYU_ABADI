@@ -3,163 +3,163 @@
    "kang_zayvius": [
     {
       "id": "1",
-      "tittle": "20",
-      "date": "2021-03-27",
+      "tittle": "Single Fighter",
+      "date": "2021-03-31",
       "link_file": "https://archive.org/download/19_20210324_202103/20.zip",
       "format_file":"zip",
       "images": "https://archive.org/download/19_20210322_20210322_1720/20.png"
     },
     {
-        "id": "2",
-        "tittle": "19",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/19.png"
-      },
-       {
-         "id": "3",
-         "tittle": "18",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/18.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/18.jpg"
-       },
-       {
-        "id": "4",
-        "tittle": "17",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/17.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/17.png"
-      },
-       {
-         "id": "5",
-         "tittle": "16",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/16.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/16.jpg"
-       },
-       {
-          "id": "6",
-          "tittle": "15",
-          "date": "2021-03-27",
-          "link_file": "https://archive.org/download/19_20210324_202103/15.zip",
-          "format_file":"zip",
-          "images": "https://archive.org/download/19_20210322_20210322_1720/15.jpg"
-        },
-       {
-         "id": "7",
-         "tittle": "14",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/14_20210324/14.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/14.jpg"
-       },
-       {
-        "id": "8",
-        "tittle": "13",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/13.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/13.jpg"
-      },
-      {
-        "id": "9",
-        "tittle": "12",
-        "date": "21-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/12.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/12.jpg"
-      },
-      {
-        "id": "10",
-        "tittle": "11",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/11.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/11.jpg"
-      },
-      {
-        "id": "12",
-        "tittle": "10",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/10.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/10.jpg"
-      },
-      {
-        "id": "12",
-        "tittle": "9",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/9.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/9.jpg"
-      },
-      {
-         "id": "13",
-         "tittle": "8",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/8.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/8.jpg"
-       },
-       {
-         "id": "14",
-         "tittle": "7",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/7.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/7.jpg"
-       },
-       {
-         "id": "15",
-         "tittle": "6",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/6.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/6.jpg"
-       },
-       {
-        "id": "16",
-        "tittle": "5",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210324_202103/5.zip",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/5.jpg"
-      },
-       {
-        "id": "17",
-        "tittle": "4",
-        "date": "2021-03-27",
-        "link_file": "https://archive.org/download/19_20210322_20210322_1720/4.jpg",
-        "format_file":"zip",
-        "images": "https://archive.org/download/19_20210322_20210322_1720/4.jpg"
-      },
-       {
-         "id": "18",
-         "tittle": "3",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/3.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/3.jpg"
-       },
-       {
-          "id": "19",
-          "tittle": "2",
-          "date": "2021-03-27",
-          "link_file": "https://archive.org/download/19_20210324_202103/2.zip",
-          "format_file":"zip",
-          "images": "https://archive.org/download/19_20210322_20210322_1720/2.png"
-        },
-       {
-         "id": "20",
-         "tittle": "1",
-         "date": "2021-03-27",
-         "link_file": "https://archive.org/download/19_20210324_202103/1.zip",
-         "format_file":"zip",
-         "images": "https://archive.org/download/19_20210322_20210322_1720/1.png"
-       }
+      "id": "2",
+      "tittle": "On The Way",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/oppa-muda/ON%20THE%20WAY.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/ON%20THE%20WAY.jpg"
+    },
+    {
+      "id": "3",
+      "tittle": "Cornhunter",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/19.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/19.png"
+    },
+    {
+      "id": "4",
+      "tittle": "Fantastic",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/15.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/15.jpg"
+    },
+    {
+      "id": "5",
+      "tittle": "Pertamina",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/oppa-muda/LIVERY%20PERTAMINA.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/oppa-muda/LIVERY%20PERTAMINA.jpg"
+    },
+    {
+      "id": "6",
+      "tittle": "HM Cabe",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/11.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/11.jpg"
+    },
+    {
+      "id": "7",
+      "tittle": "Manis",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/10.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/10.jpg"
+    },
+    {
+      "id": "8",
+      "tittle": "Low And Slow",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/1.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/1.png"
+     },
+    {
+      "id": "9",
+      "tittle": "Bukit Jaya",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/oppa-muda/BUKIT%20JAYA.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/BUKIT%20JAYA.jpg"
+    },
+    {
+     "id": "10",
+     "tittle": "Indra Jaya",
+     "date": "2021-03-31",
+     "link_file": "https://archive.org/download/19_20210324_202103/8.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/8.jpg"
+    },
+    {
+     "id": "11",
+     "tittle": "Proklamator",
+     "date": "2021-03-31",
+     "link_file": "https://archive.org/download/19_20210324_202103/7.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/7.jpg"
+    },
+    {
+     "id": "12",
+     "tittle": "GatotGaca",
+     "date": "2021-03-31",
+     "link_file": "https://archive.org/download/19_20210324_202103/6.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/6.jpg"
+    },
+    {
+      "id": "13",
+      "tittle": "Pesek Kece",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/oppa-muda/PESEK%20KECE.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/PESEK%20KECE.jpg"
+    },
+    {
+      "id": "14",
+      "tittle": "Anti Bacot",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/oppa-muda/REBECCA%20ANTI%20BACOT.zip",
+      "format_file":"zip",
+      "images": "https://ia801501.us.archive.org/18/items/oppa-muda/REBECCA%20ANTI%20BACOT.jpg"
+    },
+    {
+     "id": "15",
+     "tittle": "Polos Kuning",
+     "date": "2021-03-31",
+     "link_file": "https://archive.org/download/19_20210324_202103/3.zip",
+     "format_file":"zip",
+     "images": "https://archive.org/download/19_20210322_20210322_1720/3.jpg"
+     },
+     {
+       "id": "16",
+       "tittle": "Wahyu Abadi Polos",
+       "date": "2021-03-31",
+       "link_file": "https://archive.org/download/14_20210324/14.zip",
+       "format_file":"zip",
+       "images": "https://archive.org/download/19_20210322_20210322_1720/14.jpg"
+     },
+     {
+       "id": "17",
+       "tittle": "Wahyu Abadi 4",
+       "date": "2021-03-31",
+       "link_file": "https://archive.org/download/livery-new-wahyu-abadi-stiker/LIVERY%20NEW%20WAHYU%20ABADI%20STIKER.zip",
+       "format_file":"zip",
+       "images": "https://ia801501.us.archive.org/1/items/livery-new-wahyu-abadi-stiker/LIVERY%20NEW%20WAHYU%20ABADI%20STIKER.png"
+     },
+     {
+      "id": "18",
+      "tittle": "Wahyu Abadi 3",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/livery-new-wahyu-abadi-stiker/LIVERY%20NEW%20WAHYU%20ABADI.zip",
+      "format_file":"zip",
+     "images": "https://ia801501.us.archive.org/1/items/livery-new-wahyu-abadi-stiker/LIVERY%20NEW%20WAHYU%20ABADI.PNG"
+     },
+     {
+      "id": "19",
+      "tittle": "Wahyu Abadi 2",
+      "date": "2021-03-31",
+      "link_file": "https://archive.org/download/19_20210324_202103/13.zip",
+      "format_file":"zip",
+      "images": "https://archive.org/download/19_20210322_20210322_1720/13.jpg"
+     },
+     {
+       "id": "20",
+       "tittle": "Wahyu Abadi 1",
+       "date": "2021-03-31",
+       "link_file": "https://archive.org/download/19_20210324_202103/5.zip",
+       "format_file":"zip",
+       "images": "https://archive.org/download/19_20210322_20210322_1720/5.jpg"
+     }
    ]
 }
